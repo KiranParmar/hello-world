@@ -2,6 +2,6 @@
 Hello World example repository
 
 Created by the tutorial available on github ...
-Bla-bla-1
-Bla-bla-2
+@@@
+@@@
 # ---
